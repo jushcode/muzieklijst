@@ -11,9 +11,21 @@
 <body>
     <!-- Create header -->
     <header></header>
+    <div class="view">
+        <h2>Playlist</h2>   
+        <div class="view-buttons">
+            <div>
+                <button>Add song</button>
+            </div>
+            <div>
+                <form action="">Find song..</form>
+            </div>
+        </div>
+    </div>
+    <hr>
     <!-- Create content -->
     <div class="content">
-        
+
     </div>
         <!-- Add connection -->
 </body>
