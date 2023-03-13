@@ -1,13 +1,14 @@
 # music-playlist
 
 ## Description
-Welcome user, here you will find the ability to put your favorite songs in a list overview.
+Welkom gebruiker,
+Dit is een muzieklijst waar je je favoriete nummers kunt opslaan.
 
 ## TODO 
-Add CRUD
-
-- [ ] Lees database/ maak connectie met de database
-- [ ] Maak songs met toevoeg pagina
 
 ## DONE
+- [X] Connectie met de database
+- [X] Lees queries en laat tabel zien op index.php
+- [X] Toevoeg pagina formulier met toevoeg knop, link terug
+- [X] Wijzig pagina formulier met wijzig en verwijder knoppen, link terug
 
