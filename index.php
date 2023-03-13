@@ -7,6 +7,9 @@
     <title>Your Playlist</title>
 </head>
 <body>
+    <?php
+        include "include/nav.inc.php";
+    ?>
     <h1>Your Playlist</h1>
     <table>
         <tr>

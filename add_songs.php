@@ -1,3 +1,6 @@
+<?php
+        include "include/nav.inc.php";
+?>
 <form action="action.php" method="post">
     <label>Naam</label>
     <input type="text" name="name">
